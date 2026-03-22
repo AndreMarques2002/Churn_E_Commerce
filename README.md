@@ -53,5 +53,5 @@ Com base nas predições geradas, sugere-se as seguintes ações para a operaç�
    ```bash
    pip install -r requirements.txt
 
-3. Execute o notebook churn_analysis_model.ipynb para visualizar todo o pipeline de dados e os gráficos gerados.
+3. Execute o notebook Churn_E_Commerce.ipynb para visualizar todo o pipeline de dados e os gráficos gerados.
 
